@@ -25,7 +25,8 @@ before running the app:
 
 That should be it.
 
-Here are some pics of the app :  
+  
+Now here is how the databse looks like :
 
-
+![image](https://github.com/SIMO-007/Application-mobile-de-gestion-d-absence/assets/105717626/0f9a70c8-f052-4fd1-bfa1-b62004845f51)
 
