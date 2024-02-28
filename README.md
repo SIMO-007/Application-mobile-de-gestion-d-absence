@@ -1,6 +1,4 @@
-# flutter_app
-
-Application de gestion d'absence en flutter avec un api php and une base de donnée mysql
+# Application de gestion d'absence en flutter avec un api php and une base de donnée mysql
 
 Dependences:
 xampp, php, flutter, dart 
@@ -26,7 +24,19 @@ before running the app:
 That should be it.
 
   
-Now here is how the databse looks like :
+Now here is how the database looks like :
 
 ![image](https://github.com/SIMO-007/Application-mobile-de-gestion-d-absence/assets/105717626/0f9a70c8-f052-4fd1-bfa1-b62004845f51)
+
+
+And here are some pics of of the app:
+
+![image](https://github.com/SIMO-007/Application-mobile-de-gestion-d-absence/assets/105717626/7b7f0a8a-e2dd-4c0d-9acd-9cdeea3ef5b9)
+
+![image](https://github.com/SIMO-007/Application-mobile-de-gestion-d-absence/assets/105717626/4451725a-b97c-4741-a05a-74e9fdd6c94f)
+
+![image](https://github.com/SIMO-007/Application-mobile-de-gestion-d-absence/assets/105717626/cfa7ab62-ae38-4d7c-8727-91220a931deb)
+
+![image](https://github.com/SIMO-007/Application-mobile-de-gestion-d-absence/assets/105717626/07c0d51c-f19c-4f44-9d00-a392d01a5c8b)
+
 
