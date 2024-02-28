@@ -25,3 +25,7 @@ before running the app:
 
 That should be it.
 
+Here are some pics of the app :  
+
+
+
